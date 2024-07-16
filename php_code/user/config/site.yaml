@@ -1,0 +1,19 @@
+title: 'Love And Consciousness'
+default_lang: en
+author:
+  name: 'Dr Anna Magee'
+  email: contact@loveandconsciousness.org
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Psychotherapy Family Systems Constellations'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
